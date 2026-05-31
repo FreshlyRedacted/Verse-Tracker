@@ -1,0 +1,2 @@
+# Verse-Tracker
+A super simple play time and kills stat tracker for Star Citizen, coded using Python with the code created entirely by Claude (please dont hate me, I can't code and this should be a feature done by RSI already)
